@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css'
-import { Navbar, Form, FormControl, Button, NavDropdown, Nav } from 'react-bootstrap'
+import { Navbar, Form, FormControl, Nav } from 'react-bootstrap'
 import "bootstrap/dist/css/bootstrap.css";
 import logo from './images/logo.JPG'
 export class NavBar extends Component {

@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 
 
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { Container, Row, Button, Form, InputGroup, FormControl } from 'react-bootstrap';
+import { Button, Form } from 'react-bootstrap';
 import './css/mystyle.css';
 
 export class PrettyJson extends Component {
