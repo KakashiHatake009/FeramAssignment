@@ -73,7 +73,7 @@ export class PrettyJson extends Component {
                             <option value="6">Six spaces</option>
                             <option value="7">Seven spaces</option>
                             <option value="8">Eight spaces</option>
-                            <option value="8">Nine spaces</option>
+                            <option value="9">Nine spaces</option>
                         </Form.Control>
                     </div>
                     <div class="Button1">
